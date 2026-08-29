@@ -1,10 +1,10 @@
 # Awesome Security with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,880 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21
 
 A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
 
-Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,671 | 🐛 85 | 📅 2026-07-13, [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,798 | 🐛 18 | 🌐 Python | 📅 2026-08-25.
+Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) ⭐ 32,671 | 🐛 85 | 📅 2026-07-13, [awesome-python](https://github.com/vinta/awesome-python) ⭐ 316,804 | 🐛 18 | 🌐 Python | 📅 2026-08-25.
 
 Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/contributors) ⭐ 14,805 | 🐛 316 | 📅 2026-01-11, you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.
 
@@ -195,7 +195,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 ### Docker Images for Penetration Testing & Security
 
-* `docker pull owasp/zap2docker-stable` - [official OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 15,699 | 🐛 858 | 🌐 Java | 📅 2026-08-27
+* `docker pull owasp/zap2docker-stable` - [official OWASP ZAP](https://github.com/zaproxy/zaproxy) ⭐ 15,701 | 🐛 858 | 🌐 Java | 📅 2026-08-27
 * `docker-compose -d up` - [cicd-goat](https://github.com/cider-security-research/cicd-goat) ⭐ 2,297 | 🐛 0 | 🌐 Python | 📅 2024-07-14
 * `docker-compose build && docker-compose up` - [OWASP NodeGoat](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker) ⭐ 2,060 | 🐛 107 | 🌐 HTML | 📅 2024-06-15
 * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
@@ -230,7 +230,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 ### Configuration Management
 
-* [Fleet device management](https://github.com/fleetdm/fleet) ⭐ 6,789 | 🐛 3,508 | 🌐 Go | 📅 2026-08-29 - Fleet is the lightweight, programmable telemetry platform for servers and workstations. Get comprehensive, customizable data from all your devices and operating systems.
+* [Fleet device management](https://github.com/fleetdm/fleet) ⭐ 6,789 | 🐛 3,509 | 🌐 Go | 📅 2026-08-29 - Fleet is the lightweight, programmable telemetry platform for servers and workstations. Get comprehensive, customizable data from all your devices and operating systems.
 * [Rudder](http://www.rudder-project.org/) - Rudder is an easy to use, web-driven, role-based solution for IT Infrastructure Automation & Compliance. Automate common system administration tasks (installation, configuration); Enforce configuration over time (configuring once is good, ensuring that configuration is valid and automatically fixing it is better); Inventory of all managed nodes; Web interface to configure and manage nodes and their configuration; Compliance reporting, by configuration and/or by node.
 
 ### Authentication
@@ -240,9 +240,9 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 ### Mobile / Android / iOS
 
-* [jadx](https://github.com/skylot/jadx) ⭐ 50,249 | 🐛 443 | 🌐 Java | 📅 2026-08-28 - Command line and GUI tools for produce Java source code from Android Dex and Apk files.
+* [jadx](https://github.com/skylot/jadx) ⭐ 50,251 | 🐛 443 | 🌐 Java | 📅 2026-08-28 - Command line and GUI tools for produce Java source code from Android Dex and Apk files.
 * [Apktool](https://github.com/iBotPeaches/Apktool) ⭐ 25,403 | 🐛 81 | 🌐 Java | 📅 2026-08-26 - A tool for reverse engineering Android apk files.
-* [frida](https://github.com/frida/frida) ⭐ 21,782 | 🐛 1,959 | 🌐 Meson | 📅 2026-08-27 - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
+* [frida](https://github.com/frida/frida) ⭐ 21,783 | 🐛 1,959 | 🌐 Meson | 📅 2026-08-27 - Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers.
 * [OWASP Mobile Security Testing Guide](https://github.com/OWASP/owasp-mstg) ⭐ 13,143 | 🐛 236 | 🌐 Python | 📅 2026-08-28 - A comprehensive manual for mobile app security testing and reverse engineering.
 * [android-security-awesome](https://github.com/ashishb/android-security-awesome) ⭐ 9,649 | 🐛 0 | 🌐 Makefile | 📅 2026-08-21 - A collection of android security related resources. A lot of work is happening in academia and industry on tools to perform dynamic analysis, static analysis and reverse engineering of android apps.
 * [hardened\_malloc](https://github.com/GrapheneOS/hardened_malloc) ⭐ 1,977 | 🐛 54 | 🌐 C | 📅 2026-08-28 - Hardened allocator designed for modern systems. It has integration into Android's Bionic libc and can be used externally with musl and glibc as a dynamic library for use on other Linux-based platforms. It will gain more portability / integration over time.
@@ -348,7 +348,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Development
 
 * [Checkov](https://github.com/bridgecrewio/checkov/) ⭐ 8,975 | 🐛 167 | 🌐 Python | 📅 2026-08-27 - A static analysis tool for infrastucture as code (Terraform).
-* [TFSec](https://github.com/tfsec/tfsec/) ⭐ 7,034 | 🐛 18 | 🌐 Go | 📅 2026-03-25 - A static analysis tool for infrastucture as code (Terraform).
+* [TFSec](https://github.com/tfsec/tfsec/) ⭐ 7,035 | 🐛 18 | 🌐 Go | 📅 2026-03-25 - A static analysis tool for infrastucture as code (Terraform).
 * [Bearer](https://github.com/Bearer/bearer) ⭐ 2,739 | 🐛 17 | 🌐 Go | 📅 2026-08-24 - Scan code for security risks and vulnerabilities leading to sensitive data exposures.
 * [KICS](https://github.com/Checkmarx/kics) ⭐ 2,696 | 🐛 315 | 🌐 Open Policy Agent | 📅 2026-08-25 - Scans IaC projects for security vulnerabilities, compliance issues, and infrastructure misconfiguration. Currently working with Terraform projects, Kubernetes manifests, Dockerfiles, AWS CloudFormation Templates, and Ansible playbooks.
 * [Pompelmi](https://github.com/pompelmi/pompelmi) ⭐ 674 | 🐛 6 | 🌐 JavaScript | 📅 2026-05-23 - Node.js file-upload malware scanner with MIME sniffing, ZIP-bomb protection and optional YARA rules.
@@ -474,7 +474,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Other Security Awesome Lists
 
 * [Awesome Pentest](https://github.com/enaqx/awesome-pentest) ⭐ 27,049 | 🐛 105 | 📅 2026-07-25 - A collection of awesome penetration testing resources, tools and other shiny things.
-* [Awesome Personal Security](https://github.com/Lissy93/personal-security-checklist) ⭐ 22,205 | 🐛 56 | 🌐 TypeScript | 📅 2026-02-28 - A curated list of digital security and privacy tips, with links to further resources.
+* [Awesome Personal Security](https://github.com/Lissy93/personal-security-checklist) ⭐ 22,206 | 🐛 56 | 🌐 TypeScript | 📅 2026-02-28 - A curated list of digital security and privacy tips, with links to further resources.
 * [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) ⭐ 16,964 | 🐛 69 | 📅 2024-06-02 - A curated list of awesome Hacking tutorials, tools and resources.
 * [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) ⭐ 14,162 | 🐛 25 | 📅 2024-06-07 - A curated list of awesome malware analysis tools and resources.
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) ⭐ 11,803 | 🐛 66 | 🌐 JavaScript | 📅 2024-07-22 - A curated list of CTF frameworks, libraries, resources and software.
@@ -511,7 +511,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 Other amazingly awesome lists:
 
-* [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 315,817 | 🐛 0 | 📅 2026-08-28
+* [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 315,829 | 🐛 0 | 📅 2026-08-28
 * [Awesome Sysadmin](https://github.com/awesome-foss/awesome-sysadmin) ⭐ 35,013 | 🐛 0 | 📅 2026-08-27
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,634 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 - awesome-\* or \*-awesome lists.
 * [Movies For Hacker](https://github.com/k4m4/movies-for-hackers) ⭐ 11,881 | 🐛 129 | 🌐 Shell | 📅 2024-08-01 - A curated list of movies every hacker & cyberpunk must watch.
